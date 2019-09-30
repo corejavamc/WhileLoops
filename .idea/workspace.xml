@@ -119,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinMaxAvg">
+  <component name="RunManager" selected="Application.PassFail">
     <configuration name="EndlessString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EndlessString" />
       <module name="WhileLoops" />
@@ -141,8 +141,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PassFail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PassFail" />
+      <module name="WhileLoops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PassFail" />
         <item itemvalue="Application.MinMaxAvg" />
         <item itemvalue="Application.EndlessString" />
         <item itemvalue="Application.GuessNumber" />
